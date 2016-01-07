@@ -1497,7 +1497,7 @@ Add a little snippet of code to your cljs main file
 ----
 
 
-Crete a REPL setup file
+Create a REPL setup file
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 .*repl_browser.clj*
